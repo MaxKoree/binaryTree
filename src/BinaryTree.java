@@ -1,0 +1,3 @@
+class BinaryTree {
+  Node root;
+}
